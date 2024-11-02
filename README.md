@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Maks**!
-## I'm a *Student* from Bila Tserkva.
+## I'm a *Student* from Ukraine.
 ### Check my projects: [https://t3vel.github.io/habbit-app/](https://t3vel.github.io/habbit-app/)
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
