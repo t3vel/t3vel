@@ -6,6 +6,12 @@
 
 ---
 
+### 🌐 Portfolio / Projects
+🔗 [My Resume Website](https://t3vel.github.io/resume/)  
+
+---
+
+
 ### 🛠 Languages and Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
